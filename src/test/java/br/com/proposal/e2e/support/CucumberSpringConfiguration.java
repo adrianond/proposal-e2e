@@ -1,6 +1,6 @@
-package br.com.automacao.support;
+package br.com.proposal.e2e.support;
 
-import br.com.automacao.ProposalFrontendTestsApplication;
+import br.com.proposal.e2e.ProposalFrontendTestsApplication;
 import io.cucumber.spring.CucumberContextConfiguration;
 import org.springframework.boot.test.context.SpringBootTest;
 

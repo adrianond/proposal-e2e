@@ -1,4 +1,4 @@
-package br.com.automacao.support;
+package br.com.proposal.e2e.support;
 
 import com.microsoft.playwright.BrowserContext;
 import com.microsoft.playwright.Page;

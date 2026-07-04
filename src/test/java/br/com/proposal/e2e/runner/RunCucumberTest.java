@@ -1,4 +1,4 @@
-package br.com.automacao.runner;
+package br.com.proposal.e2e.runner;
 
 import org.junit.platform.suite.api.ConfigurationParameter;
 import org.junit.platform.suite.api.IncludeEngines;
@@ -11,7 +11,7 @@ import static io.cucumber.junit.platform.engine.Constants.PLUGIN_PROPERTY_NAME;
 @Suite
 @IncludeEngines("cucumber")
 @SelectClasspathResource("features")
-@ConfigurationParameter(key = GLUE_PROPERTY_NAME, value = "br.com.automacao")
+@ConfigurationParameter(key = GLUE_PROPERTY_NAME, value = "br.com.proposal.e2e")
 @ConfigurationParameter(key = PLUGIN_PROPERTY_NAME, value = "pretty, html:target/cucumber-report.html")
 public class RunCucumberTest {
 }

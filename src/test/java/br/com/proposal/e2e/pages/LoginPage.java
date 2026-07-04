@@ -1,7 +1,7 @@
-package br.com.automacao.pages;
+package br.com.proposal.e2e.pages;
 
-import br.com.automacao.config.AppProperties;
-import br.com.automacao.support.PlaywrightContext;
+import br.com.proposal.e2e.config.AppProperties;
+import br.com.proposal.e2e.support.PlaywrightContext;
 import com.microsoft.playwright.Page;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

@@ -1,6 +1,6 @@
-package br.com.automacao.steps;
+package br.com.proposal.e2e.steps;
 
-import br.com.automacao.pages.LoginPage;
+import br.com.proposal.e2e.pages.LoginPage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

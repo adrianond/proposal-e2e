@@ -1,4 +1,4 @@
-package br.com.automacao.config;
+package br.com.proposal.e2e.config;
 
 import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.BrowserType;

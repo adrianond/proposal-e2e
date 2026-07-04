@@ -1,4 +1,4 @@
-package br.com.automacao;
+package br.com.proposal.e2e;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

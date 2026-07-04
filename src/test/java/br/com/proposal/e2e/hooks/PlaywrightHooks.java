@@ -1,6 +1,6 @@
-package br.com.automacao.hooks;
+package br.com.proposal.e2e.hooks;
 
-import br.com.automacao.support.PlaywrightContext;
+import br.com.proposal.e2e.support.PlaywrightContext;
 import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.Page;
 import io.cucumber.java.After;
