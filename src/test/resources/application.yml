@@ -1,0 +1,4 @@
+app:
+  base-url: http://localhost:4200
+  headless: false
+  slow-mo-millis: 600
