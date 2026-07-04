@@ -8,6 +8,12 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+/**
+ * Step definitions que traduzem os passos em português de {@code login.feature}
+ * para chamadas ao {@link LoginPage}. Os textos dos anotações (@Given/@When/@Then)
+ * são casados pelo Cucumber com o conteúdo do .feature, independente da palavra-chave
+ * Gherkin usada no arquivo — por isso todos os steps aqui usam anotações em inglês.
+ */
 public class LoginSteps {
 
 	@Autowired
