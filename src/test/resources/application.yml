@@ -1,4 +1,4 @@
 app:
   base-url: http://localhost:4200
-  headless: false
+  headless: false #  controla se o navegador (Chromium) abre com interface gráfica visível (false) ou roda "invisível" (true), em segundo plano
   slow-mo-millis: 600
